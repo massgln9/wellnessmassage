@@ -23,7 +23,7 @@ header{
 .fontS { color: rgb(22, 46, 122); }
 
 
-@media screen and (max-width: 415px ) {
+@media screen and (max-width: 600px ) {
     .nav-link {
         font-size: 20px !important;
     }
@@ -36,14 +36,14 @@ header{
 }
 
 
-@media screen and (max-width: 415px){
+@media screen and (max-width: 600px){
     .align-items-center {
         width: 300px !important;
         height: 300px !important;
     }
 }
 
-@media screen and (max-width: 415px){
+@media screen and (max-width: 600px){
     .repim1 {
         width: 200px !important;
         height: 200px !important;
